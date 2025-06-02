@@ -1,3 +1,3 @@
-module github.com/creack/pty
+module github.com/danrubel/pty_go
 
 go 1.18
